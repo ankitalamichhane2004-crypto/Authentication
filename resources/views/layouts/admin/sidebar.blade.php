@@ -52,6 +52,7 @@
         <li><a href="{{ route('product.index') }}">Products</a></li>
          <li><a href="{{ route('gallery.index') }}">Gallery</a></li>
           <li><a href="{{ route('hero.index') }}">Hero</a></li>
+           <li><a href="{{ route('home-gallery.index') }}">home-gallery</a></li>
         <li><a href="#">Settings</a></li>
     </ul>
 
